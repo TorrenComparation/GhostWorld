@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 178e62f072fc59d40b8474861d1b2d5b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - waterLazerPrefab: {fileID: 8281679158309753825, guid: 1239784c889e9194cb4a5d26c0f82f01, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
